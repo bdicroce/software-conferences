@@ -1,8 +1,8 @@
-The following list are software conferences that are held in many parts of the world on an annual basis. 
+These are a few of my favorite software conferences that are held in many parts of the world in **2018** and **2019**. 
 
-I strongly believe that every professional software engineer, in any aspect of the term (i.e., developers, trainers, consultants, architects, etc.), should attend at least one of them every year, if not to learn something new about the craft or industry, at least to make a new friend and share our own expertise with each other. 
+I strongly believe that every software development professional should attend at least one conference per year, if not to learn something new about the craft or industry, at least to make a new friend and share our expertise with each other. 
 
-We each have gifts that can help someone reach a new level of curiosity and professional level. 
+We each have gifts that can help someone reach a new level of curiosity and professional level. Let's get curious and learn together.
 
 # January
 | Name                                          | Dates                         | Location                      | Website                                       |
@@ -40,6 +40,7 @@ We each have gifts that can help someone reach a new level of curiosity and prof
 |-----------------------------------------------|-------------------------------|-------------------------------|-----------------------------------------------|
 |**O'Reilly Software Architecture Conference**  |June 11-13, 2019               |San Jose, California, USA      |[Click here](https://www.oreilly.com/conferences/index.html#)|
 |**O'Reilly Velocity Conference**               |June 11-13, 2019               |San Jose, California, USA      ||[Click here](https://conferences.oreilly.com/velocity/vl-ca)|
+|**DockerCon 2018**                             |June 12-15, 2018               |San Francisco, California, USA |[Click here](https://2018.dockercon.com/)|
 |**O'Reilly Artificial Intelligence Conference**|June 19-21, 2019               |Beijing, China                 |[Click here](https://ai.oreilly.com.cn/ai-cn)|
 |**NDC Oslo**                                   |June 17-21, 2019               | Oslo, Norway                  |[Click here](http://ndcoslo.com/)              |
 
@@ -73,6 +74,7 @@ We each have gifts that can help someone reach a new level of curiosity and prof
 # November
 | Name                                          | Dates                         | Location                      | Website                                       |
 |-----------------------------------------------|-------------------------------|-------------------------------|-----------------------------------------------|
+|**DotJS**                                      |November 9, 2018               |Paris, France                  |[Click here](https://www.dotjs.io/)|
 |**KubeCon China**                              |November 13-15, 2018           |Shanghai, China                |[Click here](https://events.linuxfoundation.cn/events/kubecon-cloudnativecon-china-2018/)|
 |**QCon San Francisco**                         |November 5-9, 2018             |San Francisco, California, USA |[Click here](https://qconsf.com)               |
 |**Oredev**                                     |November 19-22, 2018           |Malmö, Sweden                  |[Click here](http://oredev.org/2018/home)      |
@@ -81,4 +83,5 @@ We each have gifts that can help someone reach a new level of curiosity and prof
 | Name                                          | Dates                         | Location                      | Website                                       |
 |-----------------------------------------------|-------------------------------|-------------------------------|-----------------------------------------------|
 |**AngleBrackets**                              |December 3-6, 2018             |Las Vegas, Nevada              |[Click here](https://anglebrackets.org)        |
+|**DockerCON EU 2018**                          |December 3-5, 2018             |Barcelona, Spain               |[Click here](https://2018.dockercon.com/)|
 |**KubeCon North America**                      |December 10-13, 2018           |Seattle, Washington, USA       |[Click here](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)|
