@@ -27,6 +27,7 @@ We each have gifts that can help someone reach a new level of curiosity and prof
 | Name                                          | Dates                         | Location                      | Website                                       |
 |-----------------------------------------------|-------------------------------|-------------------------------|-----------------------------------------------|
 |**O'Reilly Artificial Intelligence Conference**|April 16-18, 2019              |New York, New York, USA        |[Click here](https://conferences.oreilly.com/artificial-intelligence/ai-ny)|
+|**RedisConf**                                  |April 24-26, 2018              |San Francisco, California, USA |[Click here](http://www.redisconf.com/)|
 |**NDC Security Australia**                     |April 29 - May 1, 2019         |Australia                      |[Click here](https://ndcsecurity.com.au/)      |
 |**O'Reilly Strata Data Conference**            |April 30 - May 2, 2019         |London, UK                     |[Click here](https://conferences.oreilly.com/strata/strata-eu)|
 
